@@ -8,7 +8,7 @@ Table of Contents
   * [Provision the compute nodes](#provision-the-compute-nodes)
 * [Running Applications](#running-applications)
   * [Validating MPI](#validating-mpi)
-* [Check status of the ChainerMN nodes](#Check status of the ChainerMN nodes)
+* [Check status of the ChainerMN nodes](#Check-status-of-the-ChainerMN-nodes)
  
 # ChainerMN on Azure
 
