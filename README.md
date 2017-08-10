@@ -137,6 +137,8 @@ You should expect an output as the one below
     # All processes entering MPI_Finalize
 
 ____
+
+
 ## Check status of the ChainerMN nodes
  Use scripts "prerequisite.sh" to install the prerequsite (Azure CLI, Telnet and JQ) and "check_status.sh" for checking the status of    the individual instances of VMSS if VM is not running restart to them.
  Follow the document "ScriptsExecution.docx" to run the scripts.
